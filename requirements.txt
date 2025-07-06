@@ -1,0 +1,15 @@
+neo4j
+requests
+PyMuPDF
+streamlit
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+beautifulsoup4
+langgraph[all]
+langchain-google-genai
+google-generativeai
+langchain-ollama
+langchain-anthropic
+tiktoken
